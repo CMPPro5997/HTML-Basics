@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋 
+# Hi there, I'm Chirag Patel 👋 
 
 ![Header Image](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70)
 
