@@ -44,8 +44,6 @@ College Name
     </td><td>Qualification Gained</td>
         </tr>
         <td>
-    <tr><td>University Of Birmingham</td><td>Masters of Science MSc First Class in Computer Science</td>
-    <tr><td>Derby University</td><td>Bachelors of Arts BA (Hons) First Class in Accounting and Finance</td>
         <tr><td>Microsoft & Coursera</td><td>Microsoft Full-Stack Developer Professional Certificate 2026</td></tr>
 <tr><td>Amazon & Coursera</td><td>Junior Software Developer Professional Certificate 2026</td></tr>
 <tr><td>Osborne Training</td><td>AAT Level Three AATQB Bookkeepers' Membership AAT[QB] Registration 20170851, 2021</td></tr>
