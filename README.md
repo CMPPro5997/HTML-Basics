@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -56,3 +56,4 @@ College Name
 <img src="https://placehold.co/600x250" alt="image 4">
 <h2>Hobbies and Interests</h2>
 <p>I enjoy watching documentaries on BBC IPlayer (On demand television) about wildlife and nature <br> as well as my passion for architectural buildings production and business and enjoy watching the news <br> and listening to music.</p>
+](https://placehold.co/600x250)
