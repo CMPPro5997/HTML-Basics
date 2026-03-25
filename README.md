@@ -3,17 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
-<style>
-  .center-span {
-    display: block;
-    text-align: center; }
 
-</style>
-
-<span class="center-span",><b>Chirag Patel</b></span>
+<b>Chirag Patel</b>
 <nav>
     <a href="#">Home</a> <a href="#">About</a> <a href="#">News & Events</a> <a href="#">Contact Us</a>
 </nav>
@@ -34,17 +27,12 @@
 onto Angela Yu Coding Challenge Full Stack Web Development Program from her Start up App Brewery. I am looking to progress into Upwork once i graduate while i work part time in assistant accountancy to bulild extra income to start a family in the UK.
 </p>
 <img src="https://placehold.co/250x650" alt="Image of one computer and one projector screen" alt="Image of Computers displaying code" style="float: right; width: 200px;">
-</style>  
+ 
 
 <h2>Education</h2>
 <table>
-    <tr>
-        <td>
-College Name
-    </td><td>Qualification Gained</td>
-        </tr>
-        
-        <tr><td>Microsoft & Coursera</td><td>Microsoft Full-Stack Developer Professional Certificate <i><b>Pending</b></i></td></tr>
+    <tr> <td>College Name </td> <td>Qualification Gained</td> </tr>
+    <tr><td>Microsoft & Coursera</td><td>Microsoft Full-Stack Developer Professional Certificate <i><b>Pending</b></i></td></tr>
 <tr><td>Amazon & Coursera</td><td>Junior Software Developer Professional Certificate 2026 <i><b>Pending</b></i></td></tr>
 <tr><td>Osborne Training</td><td>AAT Level Three AATQB Bookkeepers' Membership AAT[QB] Registration 20170851, 2021</td></tr>
 <tr><td>South and City College</td><td>AAT Level Two Foundation in Accounting and Business Diploma 2017</td></tr>
