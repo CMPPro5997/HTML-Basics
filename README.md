@@ -1,18 +1,60 @@
-# Hi there, I'm Chirag Patel 👋 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<style>
+  .center-span {
+    display: block;
+    text-align: center; }
 
-![Header Image](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70)
+</style>
 
-### 🚀 About Me
+<span class="center-span",><b>Chirag Patel</b></span>
+<table>
+   
+<table>
+  <tr>
+    <td>Lives in</td>
+    <td>Birmingham, Great Britain</td>
+  </tr>
+  <tr>
+    <td>Occupation</td>
+    <td>Full Stack Developer</td>
+  </tr>
+ <tr>
+    <td>Email</td><td>chirag.patel73@aol.com</td>
+ </tr>
+</table>
+<p>I am able to work well in coding and numbers due to my passion for computing and accountancy having worked in the field for 4 ongoing years.I enjoy using HTML especially because i have graduated from Code Institutes five day coding challenge in HTML, CSS and JavaScript. I have now progressed
+onto Angela Yu Coding Challenge Full Stack Web Development Program from her Start up App Brewery. I am looking to progress into Upwork once i graduate while i work part time in assistant accountancy to bulild extra income to start a family in the UK.
+</p>
+<img src="https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Image of one computer and one projector screen" alt="Image of Computers displaying code" style="float: right; width: 200px;">
+</style>  
 
-- 🌍 Based in Birmingham, UK Remote
-- 🧠 Currently learning HTML, CSS and Javascript
-- 🤝 Open to collaborating on Open Source or SaaS projects
-- 💬 Ask me about HTML, CSS or Javascript for now
----
+</html>
+<h2>Education</h2>
+<table>
+    <tr>
+        <td>
+College Name
+    </td><td>Qualification Gained</td>
+        </tr>
+        <td>
+    <tr><td>University Of Birmingham</td><td>Masters of Science MSc First Class in Computer Science</td>
+    <tr><td>Derby University</td><td>Bachelors of Arts BA (Hons) First Class in Accounting and Finance</td>
+        <tr><td>Microsoft & Coursera</td><td>Microsoft Full-Stack Developer Professional Certificate 2026</td></tr>
+<tr><td>Amazon & Coursera</td><td>Junior Software Developer Professional Certificate 2026</td></tr>
+<tr><td>Osborne Training</td><td>AAT Level Three AATQB Bookkeepers' Membership AAT[QB] Registration 20170851, 2021</td></tr>
+<tr><td>South and City College</td><td>AAT Level Two Foundation in Accounting and Business Diploma 2017</td></tr>
+    </table> <!--In Progeress 20% complete-->
 
-### 🛠️ Tech Stack
-
-### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINK])
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([YOUR_LINK])
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([[YOUR_LINK]](https://github.com/CMPPro5997/HTML-Basics/projects?query=is%3Aopen))
+<h3>Screenprints Of My Current Projects with Angela Yu</h3>
+<img src="https://placehold.co/600x250" alt="Photo 1"> <img src="https://placehold.co/600x250" alt="print 2">
+<img src="https://placehold.co/600x250" alt="Image 3">
+<img src="https://placehold.co/600x250" alt="image 4">
+<h2>Hobbies and Interests</h2>
+<p>I enjoy watching documentaries on BBC IPlayer (On demand television) about wildlife and nature <br> as well as my passion for architectural buildings production and business and enjoy watching the news <br> and listening to music.</p>
