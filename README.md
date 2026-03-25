@@ -25,7 +25,6 @@
 <h1>Objective Statement</h1> <p>To Work on my portfolio using the App Brewery Full Stack developer Course<br>To be able to earn my first gig on upwork/fiverr and gain postive testimonials in the field of <br> full stack web development while working part time as an assistant accountant for a British Manufacturing firm.</p>
 
 <img src="https://placehold.co/250x650" alt="Image of one computer and one projector screen" alt="Image of Computers displaying code" style="float: right; width: 200px;">
-</style>  
 
 <h2>Education</h2>
 <table>
