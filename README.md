@@ -18,8 +18,6 @@
     <a href="#">Home</a> <a href="#">About</a> <a href="#">News & Events</a> <a href="#">Contact Us</a>
 </nav>
 <table>
-   
-<table>
   <tr>
     <td>Lives in</td>
     <td>Birmingham, Great Britain</td>
