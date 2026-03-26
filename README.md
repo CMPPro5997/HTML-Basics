@@ -34,7 +34,7 @@ College Name
         </tr>
         <tr><td>Microsoft & Coursera</td><td>Microsoft Full-Stack Developer Professional Certificate <i><b>Pending</b></i></td></tr>
 <tr><td>Amazon & Coursera</td><td>Junior Software Developer Professional Certificate 2026 <i><b>Pending</b></i></td></tr>
-<tr><td>Osborne Training</td><td>AAT Level Three AATQB Bookkeepers' Membership AAT[QB] Registration 20170851, 2021</td></tr>
+<tr><td>Osborne Training</td><td>AAT Level Three, 2021</td></tr>
 <tr><td>South and City College</td><td>AAT Level Two Foundation in Accounting and Business Diploma 2017</td></tr>
     </table> 
 <h3>Work History</h3>
